@@ -1,7 +1,6 @@
 # New file to try using classes and more OOP for orders, mostly expirementing and learning right now
 
 # Creates "order" class
-
 class orders:
     def __init__(self, name, price, address, order_date, shipping_date, tracking_number):
         self.name = name
